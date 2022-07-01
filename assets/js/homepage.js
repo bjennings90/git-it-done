@@ -1,6 +1,6 @@
 var userFormEl = document.querySelector("#user-form");
 var languageButtonsEl = document.querySelector("#language-buttons");
-var nameImputEl = document.querySelector("#username");
+var nameInputEl = document.querySelector("#username");
 var repoContainerEl = document.querySelector("#repos-container");
 var repoSearchTerm = document.querySelector("#repo-search-term");
 
